@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/33814854/90936635-9542a980-e3d3-11ea-80ce-c6e2b8dbf6f6.png" width="30" /> &nbsp;&nbsp;&nbsp; Handl  
+# <img src="https://user-images.githubusercontent.com/33814854/90936635-9542a980-e3d3-11ea-80ce-c6e2b8dbf6f6.png" width="30" /> &nbsp;&nbsp; Handl  
 App to share contact info and links quickly by creating custom QR codes, written using React Native
 
 http://www.cic.gatech.edu/fall-2019/winners/Handl
