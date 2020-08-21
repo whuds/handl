@@ -23,3 +23,5 @@ With the option to send your own information through an automated text
 ### Scan others' codes with built in QR scanner or default Camera app
 
 <img src="https://user-images.githubusercontent.com/33814854/90934950-33cd0b80-e3d0-11ea-9f7a-9ec42a5c52d9.png" width="250" />
+
+Teammates: Yu-Lin Chung, Kai-Chieh (Kenneth) Huang, Phalguna Rupanagudi, Pragati Singh
