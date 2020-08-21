@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Handl",
+    "slug": "handl",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.handle.handle",
+      "config": {
+        "googleSignIn": {
+          "apiKey": "AIzaSyC2xf7_FEwAquMs5g6GBUEu7tVE-bM2sdE",
+          "certificateHash": "43BDC32700B3A6A8BA8D5CB2C8D06271837A6FB6"
+        }
+      },
+      "permissions": [
+        "WRITE_CONTACTS",
+        "READ_CONTACTS",
+        "CAMERA"
+      ]
+    },
+    "description": "Download the expo app to try Handl!\nFor Android users, scan the QR code on the right with the expo app.\nFor iOS users, expo no longer allow visitors to see the app. Please wait until we deploy the app for iOS."
+  }
+}
