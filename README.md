@@ -1,6 +1,8 @@
 # handl
 App to share contact info and links quickly by creating custom QR codes
 
+http://www.cic.gatech.edu/fall-2019/winners/Handl
+
 <img src="https://user-images.githubusercontent.com/33814854/90933709-0a12e500-e3ce-11ea-9ac1-dcc331fafa99.gif" width="250" />
 
 ---
