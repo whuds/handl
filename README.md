@@ -1,5 +1,5 @@
 # handl
-App to share contact info and links quickly by creating custom QR codes
+App to share contact info and links quickly by creating custom QR codes, written using React Native
 
 http://www.cic.gatech.edu/fall-2019/winners/Handl
 
