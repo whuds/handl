@@ -14,7 +14,7 @@ http://www.cic.gatech.edu/fall-2019/winners/Handl
 ---
 
 ### Add contacts conventionally
-With the option to send your own information through an automated text
+With the option to send your own information through an automated text message
 
 <img src="https://user-images.githubusercontent.com/33814854/90933637-e0f25480-e3cd-11ea-916e-6d00324012b0.png" width="250" />
 
